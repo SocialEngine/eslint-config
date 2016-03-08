@@ -1,0 +1,41 @@
+{
+  "name": "eslint-config-socialengine",
+  "version": "1.0.0",
+  "description": "ESLint Configs by SocialEngine used in our JavaScript Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialengine/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "socialengine",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "eslint-config",
+    "lint",
+    "style checker",
+    "style linter"
+  ],
+  "author": "Stepan Mazurov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/socialengine/eslint-config/issues"
+  },
+  "homepage": "https://github.com/socialengine/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "~2.2.0"
+  },
+  "peerDependancies": {
+    "eslint": "~2.2.0"
+  },
+  "engines":{
+    "node": ">= 4.0.0"
+  }
+}

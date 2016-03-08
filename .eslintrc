@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "./rules/best-practices.js",
+    "./rules/stylistic.js",
+    "./rules/es5-node.js"
+  ],
+  "env": {
+    "node": true
+  }
+}
