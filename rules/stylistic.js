@@ -25,19 +25,20 @@ module.exports = {
     // no spaces for props: abc['one']
     'computed-property-spacing': [2, 'never'],
     // new person() is not allowed.
-    'new-cap': [2, {properties: false}],
+    'new-cap': [2, { properties: false }],
     // no spaces in brackets
     'array-bracket-spacing': [2, 'never'],
     'block-spacing': [2, 'always'],
     'brace-style': 2,
     'eol-last': 2,
     'keyword-spacing': 2,
-    'no-multiple-empty-lines': [2, {'max': 2, 'maxEOF': 1}],
+    'no-multiple-empty-lines': [2, { 'max': 2, 'maxEOF': 1 }],
     'no-nested-ternary': 2,
     'no-spaced-func': 2,
     'no-trailing-spaces': 2,
     'space-before-blocks': 2,
     'space-before-function-paren': [2, 'never'],
     'no-unneeded-ternary': 2,
+    'object-curly-spacing': [2, 'always'],
   }
 };

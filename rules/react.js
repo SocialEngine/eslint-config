@@ -3,13 +3,13 @@
 module.exports = {
   plugins: ['react'],
   rules: {
-    'react/display-name': [2, {'ignoreTranspilerName': false }],
+    'react/display-name': [2, { 'ignoreTranspilerName': false }],
     'react/forbid-prop-types': 2,
     'react/jsx-boolean-value': 2,
     'react/jsx-closing-bracket-location': [2, 'after-props'],
     'react/jsx-curly-spacing': 2,
     'react/jsx-indent-props': [2, 2],
-    'react/jsx-max-props-per-line': [1, {'maximum': 6}],
+    'react/jsx-max-props-per-line': [1, { 'maximum': 6 }],
     'react/jsx-no-bind': 2,
     'react/jsx-no-duplicate-props': 2,
     'react/jsx-no-undef': 2,
