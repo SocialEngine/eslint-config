@@ -1,7 +1,7 @@
 # eslint-config-socialengine
 
 [![](http://img.shields.io/npm/v/eslint-config-socialengine.svg)](https://npmjs.org/package/eslint-config-socialengine)
-[![](https://api.travis-ci.org/socialengine/eslint-config.svg?branch=master)](https://travis-ci.org/socialengine/eslint-config)
+[![](https://api.travis-ci.org/SocialEngine/eslint-config.svg?branch=master)](https://travis-ci.org/SocialEngine/eslint-config)
 
 A composable set of ESLint configurations used by [SocialEngine](https://www.socialengine.com) to unify code style and 
 linting rules.
