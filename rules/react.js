@@ -8,6 +8,7 @@ module.exports = {
     'react/jsx-boolean-value': 2,
     'react/jsx-closing-bracket-location': [2, 'after-props'],
     'react/jsx-curly-spacing': 2,
+    'react/jsx-equals-spacing': [2, 'never'],
     'react/jsx-indent-props': [2, 2],
     'react/jsx-max-props-per-line': [1, { 'maximum': 6 }],
     'react/jsx-no-bind': 2,
