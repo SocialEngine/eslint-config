@@ -30,6 +30,8 @@ module.exports = {
     'array-bracket-spacing': [2, 'never'],
     // no spaces inside of parentheses
     'space-in-parens': [2, 'never'],
+    // no multi spaces
+    'no-multi-spaces': 2,
     'block-spacing': [2, 'always'],
     'brace-style': 2,
     'eol-last': 2,
