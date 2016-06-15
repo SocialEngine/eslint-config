@@ -28,6 +28,8 @@ module.exports = {
     'new-cap': [2, { properties: false }],
     // no spaces in brackets
     'array-bracket-spacing': [2, 'never'],
+    // spaces require around infix operators
+    'space-infix-ops': 2,
     // no spaces inside of parentheses
     'space-in-parens': [2, 'never'],
     // no multi spaces
